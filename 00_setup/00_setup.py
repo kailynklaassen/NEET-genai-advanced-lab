@@ -9,7 +9,7 @@
 
 # COMMAND ----------
 
-catalog_name = "databricks_workshop"
+catalog_name = "neet_dev"
 spark.sql(f"USE CATALOG {catalog_name}")
 
 # COMMAND ----------
